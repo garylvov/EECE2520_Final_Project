@@ -4,7 +4,7 @@ Something I whipped up for my EECE2520 final project. Calculates the FFT of the 
 
 # Installation/Dependecies:
 ```
-git clone https://github.com/garylvov/Dependencies
+git clone https://github.com/garylvov/EECE2520_Final_Project
 
 pip install numpy scipy sympy matplotlib
 ```
