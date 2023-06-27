@@ -1,4 +1,4 @@
-Something I whipped up for my EECE2520 final project. Calculates the FFT of the provided signal, which can be combination of custom defined functions (rectangular pulse, etc) and sympy functions. When possible, calculates the fourier transform of the signal. Then, the FFT is used to reconstruct the signal with a varying number of terms, showing the reconstruction and it's error.
+Something I created for my EECE2520 extra credit/final project. Calculates the FFT of the provided signal, which can be combination of custom defined functions (rectangular pulse, etc) and sympy functions. When possible, calculates the fourier transform of the signal. Then, the FFT is used to reconstruct the signal with a varying number of terms, showing the reconstruction and it's error.
 
 ![Image](pic_for_readme.png)
 
